@@ -16,7 +16,7 @@
 - 💬 Ask me about **Mern , Js , Web**
 
 - 📄 Know about my experiences [https://is.gd/WeHdvu](https://is.gd/WeHdvu)
-
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-sarkar-b48315273) 
