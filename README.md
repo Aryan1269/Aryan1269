@@ -4,7 +4,7 @@
 </h1>
 
 <img align="left" alt="Coding" width="120"  src="https://i.pinimg.com/originals/03/cb/25/03cb25bd865ac086da91eabe4c88ca14.jpg">
-<h3 align="center">A passionate Mern Stack Developer.</h3> <br>
+<h3 align="left">A passionate Mern Stack Developer.</h3> <br>
 
 
 # 💫 About Me:
