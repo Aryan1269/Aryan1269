@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aryan Sarkar</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Sarkar!;" />
+</h1>
+
 <h3 align="center">A passionate Mern Stack Developer.</h3>
+
 
 # 💫 About Me:
 
+<img align="right" alt="Coding" width="300"  src="https://i.pinimg.com/originals/03/cb/25/03cb25bd865ac086da91eabe4c88ca14.jpg">
 - 🌱 I’m currently learning **Mern stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryan1269](https://github.com/Aryan1269)
