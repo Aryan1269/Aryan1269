@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="195" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRrbHA2YzZxYjZ4cHhzOWplamoycXJzNG42b2psMjdsM2Z2aDJnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryan1269](https://github.com/Aryan1269)
 
