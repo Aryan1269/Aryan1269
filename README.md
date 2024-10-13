@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryan1269](https://github.com/Aryan1269)
 
-- 💬 Ask me about **Mern , Js , Web**
+- 💬 Ask me about **Mern , Js , Web , App Development**
 
 - 📄 Know about my experiences [https://is.gd/WeHdvu](https://is.gd/WeHdvu)
 <br>
